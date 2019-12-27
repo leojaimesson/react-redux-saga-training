@@ -5,6 +5,8 @@
   <strong>Treinamento React/Redux/Saga</strong>
 </p>
 
+ **>>> ESTE PROJETO MIGROU PARA [React.js Ceará](https://github.com/reactjs-ceara/javascript-exercises)<<<**
+ 
 Iniciativa da comunidade front-end de Fortaleza/CE para compartilhamento de conhecimentos sobre ReactJS, Redux e Redux-Saga.
 
 ## Trilhas
